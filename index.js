@@ -3,8 +3,8 @@ let number1El = document.getElementById("number1El")
 console.log(number2El)
 
 
-let number1 = 12
-let number2 = 5
+let number1 = 0
+let number2 = 0
 function add1(){
     number1 += 1
     number1El.textContent = number1
