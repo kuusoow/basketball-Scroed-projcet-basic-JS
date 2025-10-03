@@ -18,11 +18,12 @@ body {
     justify-content: space-around;
      font-family: myFont;
      width: 490px;
-     margin: 0 auto;
+     margin: 30 auto;
      
     background-color:#1B244A;
     border-radius:5px ;
     padding: 30px;
+    
     
 }
 .container h3{
