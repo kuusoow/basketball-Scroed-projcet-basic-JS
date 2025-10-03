@@ -1,8 +1,8 @@
 body {
     
-    background-color:#1B244A;
+    /* background-color:#1B244A; */
     color: white;
-    margin: 0 auto;
+    margin: 0 ;
     text-align: center;
    
 
@@ -17,6 +17,12 @@ body {
     display: flex;
     justify-content: space-around;
      font-family: myFont;
+     width: 490px;
+     margin: 0 auto;
+     
+    background-color:#1B244A;
+    border-radius:5px ;
+    padding: 30px;
     
 }
 .container h3{
